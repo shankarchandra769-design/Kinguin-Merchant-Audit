@@ -1,0 +1,24 @@
+# Environment variables - NEVER commit this
+.env
+
+# Stored bot image
+stored.png
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
